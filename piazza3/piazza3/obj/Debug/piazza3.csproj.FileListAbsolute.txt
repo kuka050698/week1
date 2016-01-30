@@ -1,0 +1,6 @@
+c:\users\лорл\documents\visual studio 2013\Projects\piazza3\piazza3\bin\Debug\piazza3.exe.config
+C:\Users\лорл\Desktop\gitbush\piazza3\piazza3\bin\Debug\piazza3.exe.config
+C:\Users\лорл\Desktop\gitbush\piazza3\piazza3\bin\Debug\piazza3.exe
+C:\Users\лорл\Desktop\gitbush\piazza3\piazza3\bin\Debug\piazza3.pdb
+C:\Users\лорл\Desktop\gitbush\piazza3\piazza3\obj\Debug\piazza3.exe
+C:\Users\лорл\Desktop\gitbush\piazza3\piazza3\obj\Debug\piazza3.pdb

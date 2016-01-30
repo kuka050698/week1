@@ -1,0 +1,9 @@
+c:\users\лорл\documents\visual studio 2013\Projects\piazza1\piazza1\bin\Debug\piazza1.exe.config
+c:\users\лорл\documents\visual studio 2013\Projects\piazza1\piazza1\obj\Debug\piazza1.csprojResolveAssemblyReference.cache
+c:\users\лорл\documents\visual studio 2013\Projects\piazza1\piazza1\bin\Debug\piazza1.exe
+c:\users\лорл\documents\visual studio 2013\Projects\piazza1\piazza1\bin\Debug\piazza1.pdb
+c:\users\лорл\documents\visual studio 2013\Projects\piazza1\piazza1\obj\Debug\piazza1.exe
+c:\users\лорл\documents\visual studio 2013\Projects\piazza1\piazza1\obj\Debug\piazza1.pdb
+C:\Users\лорл\Desktop\gitbush\piazza1\piazza1\bin\Debug\piazza1.exe.config
+C:\Users\лорл\Desktop\gitbush\piazza1\piazza1\obj\Debug\piazza1.exe
+C:\Users\лорл\Desktop\gitbush\piazza1\piazza1\obj\Debug\piazza1.pdb

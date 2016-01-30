@@ -1,0 +1,2 @@
+c:\users\лорл\documents\visual studio 2013\Projects\piazza2(akshabayev)\piazza2(akshabayev)\bin\Debug\piazza2(akshabayev).exe.config
+C:\Users\лорл\Desktop\gitbush\piazza2(akshabayev)\piazza2(akshabayev)\bin\Debug\piazza2(akshabayev).exe.config
